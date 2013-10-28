@@ -10,7 +10,7 @@ Key Features
 Acknowledgements
 ----------------
 
-WetKit Shiny is based on the work done in the Drupal [Commerce Kickstart][commerce_kickstart] Distro and was ported from [Shiny][shiny]:
+Based on the work done in the Drupal [Commerce Kickstart][commerce_kickstart] Distro and a port from [Shiny][shiny]:
 
   * Aaron Dudenhofer [(dudenhofer)][dudenhofer]
 
@@ -19,4 +19,3 @@ WetKit Shiny is based on the work done in the Drupal [Commerce Kickstart][commer
 [dudenhofer]:                 http://drupal.org/user/254160
 [commerce_kickstart]:         http://www.drupal.org/project/commerce_kickstart
 [shiny]:                      http://www.drupal.org/project/shiny
-
